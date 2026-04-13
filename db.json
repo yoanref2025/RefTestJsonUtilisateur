@@ -21,7 +21,6 @@
         {"uid":"f098a6e2-9e08-4df8-9a41-99fa216a7916","uid_r":"f13b7f49-885e-43ab-b22d-823eeeac7bfd","lec":true,"ecr":true},
         {"uid":"b13c7110-18bb-4a9e-bdb9-c86d38524900","uid_r":"4f75b01b-5a4b-4c7b-b49c-157518506975","lec":true,"ecr":true},
         {"uid":"9817a4aa-a59b-4644-b4c8-f95c50d59569","uid_r":"7cb9690f-dbc3-4251-80bc-41e16d17cf57","lec":true,"ecr":true},
-		{"uid":"88f7f434-7061-4ec0-84c6-89a95e13b15b","uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f","lec":true,"ecr":true},
 		{"uid":"60fd036c-0369-4de5-bf60-fce47057cf7e","uid_r":"01d268d8-fed9-41dd-9373-19d06059a289","lec":true,"ecr":true}
       ]
     },
@@ -52,7 +51,8 @@
         {"uid":"fb499870-331c-494d-a537-cb76df033c99","uid_r":"dc4b2d43-fc08-461b-9eb5-7bd2a0525292","lec":true,"ecr":true},
         {"uid":"361a4f7b-6111-43a3-825f-ff30bef61a48","uid_r":"475aedb4-294c-4ecb-a64a-7e0a8ad64ac0","lec":true,"ecr":true},
         {"uid":"f7a04dfe-e1c8-47f8-9258-6de976db7ba3","uid_r":"877b80dc-c9c7-4f0a-aefa-705cc3217600","lec":true,"ecr":true},     
-        {"uid":"ee54e90e-6f23-4a09-94b7-475997c42995","uid_r":"7cb9690f-dbc3-4251-80bc-41e16d17cf57","lec":true,"ecr":true}
+        {"uid":"ee54e90e-6f23-4a09-94b7-475997c42995","uid_r":"7cb9690f-dbc3-4251-80bc-41e16d17cf57","lec":true,"ecr":true},
+		{"uid":"88f7f434-7061-4ec0-84c6-89a95e13b15b","uid_r":"f8433ff4-bb03-4a22-a5b3-b49b8a40e00f","lec":true,"ecr":true}
       ]
     },
     {

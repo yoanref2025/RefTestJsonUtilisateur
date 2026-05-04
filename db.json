@@ -2,7 +2,7 @@
   "utilisateur": [
     {
       "uid": "0da0a6c6-2135-43af-9efd-35ee5d722e88",
-      "ident": "b.clouet",
+      "ident": "BCLOUET",
       "nom": "CLOUET",
       "prenom": "Bénédicte",
       "mdp": "$2a$06$XJSvw3iwGDCJ23UZfyEAKeB/nVkZDAA5syLBau50eAMhHL/lS3msq",
@@ -26,7 +26,7 @@
     },
     {
       "uid": "e072b57a-b1bd-4957-9218-dd4cd4a514ec",
-      "ident": "g.bailleul",
+      "ident": "GBAILLEUL",
       "nom": "BAILLEUL",
       "prenom": "Grégoire",
       "mdp": "$2a$06$nsqThTCt2EVKcenU71WK5eTF6Gl4u/lOLfNHk3d63RJ4SEDd3Ifma",
@@ -58,7 +58,7 @@
     },
     {
       "uid": "c94b9d9d-6847-4d0c-872d-deb50d696804",
-      "ident": "jl.ayme",
+      "ident": "JLAYME",
       "nom": "AYME",
       "prenom": "Jean-Luc",
       "mdp": "$2a$06$yfZdq6tjzEUacrYHRmfwwOIeysqLfBwzeQCU.oDSQs5eoe316CJbq",
@@ -70,7 +70,7 @@
     },
     {
       "uid": "ff05a892-b4a6-4f26-8cf5-5671ddf1110c",
-      "ident": "y.panariello",
+      "ident": "YPANARIELLO",
       "nom": "PANARIELLO",
       "prenom": "Yoan",
       "mdp": "$2a$06$TbIwyKK5SjUbCPvXlCIBhOHBhZXFaJd2rh3D.iKuX15lbmnSUJaae",
@@ -81,7 +81,7 @@
     },
     {
       "uid": "faff0562-bc76-4ea2-be6e-610d0695a4e4",
-      "ident": "e.proy",
+      "ident": "EPROY",
       "nom": "PROY",
       "prenom": "Eric",
       "mdp": "$2a$06$etjOlPfJnMTr5KUId.CsB.nwhjO2x1SP3V9t3g2GThW4Ls9/SxhdS",
@@ -91,7 +91,7 @@
     },
     {
       "uid": "57f43ee6-0a2a-4170-966f-44d58068b852",
-      "ident": "d.bailleul",
+      "ident": "DBAILLEUL",
       "nom": "BAILLEUL",
       "prenom": "Denis",
       "mdp": "$2a$06$oLtGHbPL.m2sTM/TSf4nxuX.M2ytEWuf9auW7IcxFPWbrKfi.hmWi",
@@ -103,7 +103,7 @@
     },
     {
       "uid": "202a1f33-b554-4fb7-b1e2-824eca44cc63",
-      "ident": "g.pasdedroits",
+      "ident": "GPASDEDROITS",
       "nom": "PASDEDROITS",
       "prenom": "Geylan",
       "mdp": "$2a$06$AZ06iJNI9Ja2zUx13RCgD.KmecF1Oamn6fJSOs9dBfIA18Rkg3Al6",
